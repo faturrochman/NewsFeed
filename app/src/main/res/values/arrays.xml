@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_cat">
+        <item>"HIGHLIGHTS"</item>
+        <item>"NEWS"</item>
+        <item>"BUSINESS"</item>
+        <item>"ENTERTAINMENT"</item>
+        <item>"SPORTS"</item>
+        <item>"TECHNOLOGY"</item>
+        <item>"WORLD"</item>
+    </string-array>
+
+    <array name="news_list_img">
+        <item>@drawable/detail1</item>
+        <item>@drawable/detail2</item>
+        <item>@drawable/detail3</item>
+        <item>@drawable/detail4</item>
+    </array>
+
+    <string-array name="news_list_txt">
+        <item>"Possible immigration compromise emerges on Capitol Hill"</item>
+        <item>"4 Children among 6 killed in Houston-Area Shooting"</item>
+        <item>"9 Killed while watching World Cup as Israeli missile hits Gazza beach"</item>
+        <item>"Prostitute accused of murdering Google exec linked to second"</item>
+    </string-array>
+
+</resources>
